@@ -1,0 +1,4 @@
+LogicalScoreboard
+=================
+
+Plugin for LogicalSolutions
